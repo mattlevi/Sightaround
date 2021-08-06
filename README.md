@@ -12,3 +12,6 @@ Sightataround is a web platform that allows people to experience places virtuall
 
 TEAM MEMBERS
 Matthew Moyo
+
+PREVIEW HOST
+www.onlinexplode.co.za/sightaround/
